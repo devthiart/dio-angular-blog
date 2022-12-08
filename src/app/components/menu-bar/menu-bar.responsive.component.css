@@ -1,0 +1,9 @@
+@media screen and (max-width: 700px){
+  .container__menu-bar > ul {
+    flex-direction: column;
+  }
+
+  .menu-bar__separator {
+    display: none;
+  }
+}
